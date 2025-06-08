@@ -1,0 +1,17 @@
+{
+  "name": "MAKE DIVORCE GREAT AGAIN",
+  "symbol": "DIVORCE",
+  "image": "https://raw.githubusercontent.com/Marbzcoin/divorce-token/main/DIVORCE10.png",
+  "description": "Once hailed as the ultimate power couple of capitalism, Elon and Trump’s bromance has officially imploded — and $DIVORCE is the settlement.",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Marbzcoin/divorce-token/main/DIVORCE10.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
